@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794510169180",
+    "project_id": "cafpon",
+    "storage_bucket": "cafpon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794510169180:android:fb1b31e85747e45b628299",
+        "android_client_info": {
+          "package_name": "com.example.cafpon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794510169180-ju1kiifukag4mgkgnt6422chpmqer7jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_uD1IhVAYodLdRQg-JzNv2ZmKm4Dajc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794510169180-ju1kiifukag4mgkgnt6422chpmqer7jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
